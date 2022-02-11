@@ -1,6 +1,7 @@
 {
   "name": "js-patterns",
   "version": "1.0.0",
+  "type": "module",
   "description": "js patterns",
   "main": "index.js",
   "scripts": {
