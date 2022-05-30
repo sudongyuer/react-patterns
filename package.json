@@ -1,7 +1,7 @@
 {
-  "name": "js-patterns",
+  "name": "react-patterns",
   "version": "1.0.0",
-  "description": "js patterns",
+  "description": "react patterns",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -11,14 +11,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/sudongyuer/js-patterns.git"
+    "url": "git+https://github.com/sudongyuer/react-patterns.git"
   },
   "author": "sudongyu",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/sudongyuer/js-patterns/issues"
+    "url": "https://github.com/sudongyuer/react-patterns/issues"
   },
-  "homepage": "https://github.com/sudongyuer/js-patterns#readme",
+  "homepage": "https://github.com/sudongyuer/react-patterns#readme",
   "devDependencies": {
     "vitepress": "^0.22.4"
   }
