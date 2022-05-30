@@ -1,6 +1,6 @@
 # React设计模式
 <p align="center">
-<img src="https://tva1.sinaimg.cn/large/e6c9d24ely1h2q7hwq3mjj20lw0v2wgp.jpg" height="300">
+<img src="https://tva1.sinaimg.cn/large/e6c9d24ely1h2q7hwq3mjj20lw0v2wgp.jpg" height="500">
 </p>
 
 ## 你好👋我是速冻鱼🐟 这个小册的作者
