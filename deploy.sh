@@ -20,7 +20,7 @@ git commit -m 'deploy'
 # git push -f git@github.com:<USERNAME>/<USERNAME>.github.io.git master
 
 # if you are deploying to https://<USERNAME>.github.io/<REPO>
- git push -f git@github.com:sudongyuer/frontend-algorithm.git master:gh-pages-deploy
+ git push -f git@github.com:sudongyuer/react-patterns.git master:gh-pages-deploy
 
  cd ../../../ && rm -rf docs/.vitepress/dist
 
