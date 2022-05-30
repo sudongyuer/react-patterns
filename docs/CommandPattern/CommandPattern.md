@@ -1,4 +1,4 @@
-# 命令模式.md
+# 命令模式
 
 ![image-20220224204940778](https://tva1.sinaimg.cn/large/e6c9d24egy1gzow4z17l6j20je0ak3yy.jpg)
 
