@@ -2,13 +2,13 @@ import { defineConfig } from 'vitepress'
 
 export default defineConfig({
   lang: 'en-US',
-  title: 'JavaScript 🧬 Patterns',
+  title: 'React Patterns 🥶',
   description: 'Vite & Vue powered static site generator.',
   lastUpdated: true,
-  base:"/js-patterns/",
+  base:"/react-patterns/",
 
   themeConfig: {
-    repo: 'sudongyuer/js-patterns',
+    repo: 'sudongyuer/react-patterns',
     docsDir: 'docs',
     docsBranch: 'main',
     editLinks: false,
