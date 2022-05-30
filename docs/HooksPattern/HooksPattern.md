@@ -70,7 +70,7 @@ class MyComponent extends React.Component {
 
 尽管这两种模式都是有效的，并且是一种很好的实践，但是在以后添加这些模式需要重新构造应用程序。除了必须重组应用程序(组件越大就越棘手)之外，为了在嵌套更深的组件之间共享代码而使用许多包装组件可能会导致最好被称为包装地狱的情况。打开你的开发工具并看到类似的结构并不罕见
 
-![image-20220218222654966](/Users/sudongyu/Library/Application Support/typora-user-images/image-20220218222654966.png)
+![image-20220218222654966](https://tva1.sinaimg.cn/large/e6c9d24ely1h2qet1cxa4j20y60hkdh0.jpg)
 
 包装器的地狱可能会使您难以理解数据是如何流经您的应用程序的，这可能会使您更难弄清楚为什么会发生意外的行为。
 
